@@ -1,0 +1,65 @@
+wikidata_id,occupation,occupation_group
+Q33999,actor,Arts & Culture
+Q42973,architect,Arts & Culture
+Q483501,artist,Arts & Culture
+Q245068,comedian,Arts & Culture
+Q36834,composer,Arts & Culture
+Q158852,conductor,Arts & Culture
+Q5716684,dancer,Arts & Culture
+Q10800557,film actor,Arts & Culture
+Q2526255,film director,Arts & Culture
+Q639669,musician,Arts & Culture
+Q1028181,painter,Arts & Culture
+Q33231,photographer,Arts & Culture
+Q214917,playwright,Arts & Culture
+Q28389,screenwriter,Arts & Culture
+Q1281618,sculptor,Arts & Culture
+Q177220,singer,Arts & Culture
+Q753110,songwriter,Arts & Culture
+Q10798782,television actor,Arts & Culture
+Q2405480,voice actor,Arts & Culture
+Q36180,writer,Arts & Culture
+Q43845,businessperson,Business
+Q131524,entrepreneur,Business
+Q4479442,founder,Business
+Q557880,investor,Business
+Q2259532,cleric,Public Figures
+Q1930187,journalist,Public Figures
+Q47064,military personnel,Public Figures
+Q116,monarch,Public Figures
+Q733786,monk,Public Figures
+Q57414145,online streamer,Public Figures
+Q82955,politician,Public Figures
+Q30461,president,Public Figures
+Q42603,priest,Public Figures
+Q947873,television presenter,Public Figures
+Q15976092,artificial intelligence researcher,Science & Academia
+Q11063,astronomer,Science & Academia
+Q864503,biologist,Science & Academia
+Q593644,chemist,Science & Academia
+Q82594,computer scientist,Science & Academia
+Q188094,economist,Science & Academia
+Q81096,engineer,Science & Academia
+Q520549,geologist,Science & Academia
+Q201788,historian,Science & Academia
+Q205375,inventor,Science & Academia
+Q170790,mathematician,Science & Academia
+Q6337803,neuroscientist,Science & Academia
+Q4964182,philosopher,Science & Academia
+Q39631,physician,Science & Academia
+Q169470,physicist,Science & Academia
+Q121594,professor,Science & Academia
+Q212980,psychologist,Science & Academia
+Q901,scientist,Science & Academia
+Q15319501,social scientist,Science & Academia
+Q2306091,sociologist,Science & Academia
+Q774306,surgeon,Science & Academia
+Q37226,teacher,Science & Academia
+Q2066131,athlete,Sports
+Q10871364,baseball player,Sports
+Q3665646,basketball player,Sports
+Q10873124,chess player,Sports
+Q117321337,football player,Sports
+Q11774891,ice hockey player,Sports
+Q4379701,professional gamer,Sports
+Q10843402,swimmer,Sports
