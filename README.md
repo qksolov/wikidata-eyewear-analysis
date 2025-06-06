@@ -1,7 +1,6 @@
 # Wikidata Eyewear Analysis
 
-This repository contains an exploratory analysis of notable individuals from Wikidata, supplemented with an eyewear detection analysis using the **[EyewearCounter]()** model to study glasses-wearing patterns among public figures.
-
+This repository contains an exploratory analysis of notable individuals from Wikidata, supplemented with an eyewear detection analysis using the [EyewearCounter](https://github.com/qksolov/eyewear-counter) model to study glasses-wearing patterns across various occupations.
 
 ## Dataset
 
